@@ -2012,6 +2012,7 @@ return [
                     'doc-generation-info' => 'Habilita la función de generación de DOC para extraer automáticamente datos de archivos DOC y convertirlos a formato de texto. Mejora tu productividad y eficiencia habilitando esta función para agilizar tu flujo de trabajo.',
                     'title'               => 'Configuraciones Generales',
                     'models'              => [
+                        'claude-opus-4-5'       => 'Claude Opus 4.5',
                         'deepseek-r1'           => 'Deepseek R1 Distill-llama-8b',
                         'gemini-2-0-flash-001'  => 'Gemini 2.0 flash-001',
                         'gpt-4o'                => 'GPT-4.0',

@@ -2012,6 +2012,7 @@ return [
                     'doc-generation-info' => 'ویژگی تولید DOC را فعال کنید تا به‌صورت خودکار داده‌ها را از فایل‌های DOC استخراج و به فرمت متنی تبدیل کند. با فعال‌سازی این ویژگی، بهره‌وری و کارایی خود را افزایش دهید و فرآیند کاری را ساده‌تر کنید.',
                     'title'               => 'تنظیمات عمومی',
                     'models'              => [
+                        'claude-opus-4-5'       => 'Claude Opus 4.5',
                         'deepseek-r1'           => 'Deepseek R1 Distill-llama-8b',
                         'gemini-2-0-flash-001'  => 'Gemini 2.0 flash-001',
                         'gpt-4o'                => 'GPT-4.0',
