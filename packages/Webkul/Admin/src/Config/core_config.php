@@ -228,6 +228,9 @@ return [
                     ], [
                         'title' => 'admin::app.configuration.index.magic-ai.settings.models.grok-2-1212',
                         'value' => 'x-ai/grok-2-1212',
+                    ], [
+                        'title' => 'admin::app.configuration.index.magic-ai.settings.models.claude-opus-4-5',
+                        'value' => 'anthropic/claude-opus-4',
                     ],
                 ],
             ], [

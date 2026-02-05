@@ -2012,6 +2012,7 @@ return [
                     'doc-generation-info' => 'قم بتمكين ميزة توليد DOC لاستخراج البيانات تلقائيًا من ملفات DOC وتحويلها إلى تنسيق نصي. عزز إنتاجيتك وكفاءتك من خلال تفعيل هذه الميزة لتبسيط سير عملك.',
                     'title'               => 'الإعدادات العامة',
                     'models'              => [
+                        'claude-opus-4-5'       => 'Claude Opus 4.5',
                         'deepseek-r1'           => 'Deepseek R1 Distill-llama-8b',
                         'gemini-2-0-flash-001'  => 'Gemini 2.0 flash-001',
                         'gpt-4o'                => 'GPT-4.0',

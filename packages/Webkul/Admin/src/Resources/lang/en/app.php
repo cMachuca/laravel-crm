@@ -2204,6 +2204,7 @@ return [
                     'title'               => 'General Settings',
 
                     'models'     => [
+                        'claude-opus-4-5'       => 'Claude Opus 4.5',
                         'deepseek-r1'           => 'Deepseek R1 Distill-llama-8b',
                         'gemini-2-0-flash-001'  => 'Gemini 2.0 flash-001',
                         'gpt-4o'                => 'GPT-4.0',

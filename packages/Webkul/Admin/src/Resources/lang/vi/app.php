@@ -2012,6 +2012,7 @@ return [
                     'doc-generation-info' => 'Bật tính năng Tạo DOC để tự động trích xuất dữ liệu từ các tệp DOC và chuyển đổi chúng sang định dạng văn bản. Nâng cao năng suất và hiệu quả công việc bằng cách bật tính năng này để đơn giản hóa quy trình làm việc của bạn.',
                     'title'               => 'General Settings',
                     'models'              => [
+                        'claude-opus-4-5'       => 'Claude Opus 4.5',
                         'deepseek-r1'           => 'Deepseek R1 Distill-llama-8b',
                         'gemini-2-0-flash-001'  => 'Gemini 2.0 flash-001',
                         'gpt-4o'                => 'GPT-4.0',
